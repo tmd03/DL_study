@@ -1,3 +1,3 @@
-DEEP LEARNING STUDY
+## DEEP LEARNING STUDY
 
-study in zerobase, August 2024
+study in August 2024
